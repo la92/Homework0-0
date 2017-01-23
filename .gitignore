@@ -7,3 +7,4 @@
 <blockquote> Blockquote tag</blockquote>
 <div> Division tag</div>
 <title>Title tag</title>
+<head> A container for all the head elemennts</head>
