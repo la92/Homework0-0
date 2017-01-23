@@ -3,6 +3,7 @@
 <i>This is the Italics</i>
 <a>This is a link tag</a>
 <b>This is a Bold tag</b>
-<img> Image tag</img>
+<img src = "ImageTag.jpg/>
 <blockquote> Blockquote tag</blockquote>
 <div> Division tag</div>
+<title>Title tag</title>
